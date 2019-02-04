@@ -1,0 +1,520 @@
+2019-01-20T10:42:45.411Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-01-20T10:42:45.412Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+2019-01-20T10:42:45.413Z - info: [ArdublocklyElec] OS detected: win32
+2019-01-20T10:42:45.530Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-01-20T10:42:46.845Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Current working directory set to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server root:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings file corrupted or not found in:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+Settings will be set to the default values.
+Final settings loaded:
+	Compiler directory: None
+	Arduino Board Key: Atmel atmega168pb Xplained mini
+	Arduino Board Value: atmel:avr:atmega168pb_xplained_mini
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: open
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Launch Server:
+
+2019-01-20T10:42:59.537Z - info: [ServerMgr] Server stopped.
+2019-01-20T10:43:10.942Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-01-20T10:43:10.943Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+2019-01-20T10:43:10.943Z - info: [ArdublocklyElec] OS detected: win32
+2019-01-20T10:43:11.014Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-01-20T10:43:11.614Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Current working directory set to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server root:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+The provided compiler path in the settings file is not valid:
+	None
+Default compiler path set:
+	None
+Final settings loaded:
+	Compiler directory: None
+	Arduino Board Key: Atmel atmega168pb Xplained mini
+	Arduino Board Value: atmel:avr:atmega168pb_xplained_mini
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: open
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Launch Server:
+
+2019-01-20T10:43:47.092Z - info: [ArdublocklySrv] Serving on http://DESKTOP-GTVB8N7:8000
+Serving on http://DESKTOP-GTVB8N7:8000
+Arduino Board set to:
+	Uno
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:43:48.675Z - info: [ArdublocklySrv] Serial Port set to:
+	COM12
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:44:55.819Z - info: [ArdublocklySrv] Compiler directory set to:
+	C:\Program Files (x86)\Arduino\arduino.exe
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:45:27.922Z - info: [ArdublocklySrv] IDE options set to:
+	Verify sketch
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:45:45.479Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ArdublocklySketch\ArdublocklySketch.ino --board arduino:avr:uno --verify
+Error: Exception in arduino_ide_send_code:
+'cp949' codec can't encode character '\xc4' in position 19: illegal multibyte sequence
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:46:18.497Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM12 --board arduino:avr:uno
+Error: Exception in arduino_ide_send_code:
+'cp949' codec can't encode character '\xc4' in position 19: illegal multibyte sequence
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:46:36.855Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ArdublocklySketch\ArdublocklySketch.ino --board arduino:avr:uno --verify
+Error: Exception in arduino_ide_send_code:
+'cp949' codec can't encode character '\xc4' in position 19: illegal multibyte sequence
+Serial Port set to:
+	COM1
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:46:46.643Z - info: [ArdublocklySrv] Serial Port set to:
+	COM1
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:46:48.256Z - info: [ArdublocklySrv] Serial Port set to:
+	COM12
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:46:51.853Z - info: [ArdublocklySrv] IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:49:51.657Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM12 --board arduino:avr:uno
+Error: Exception in arduino_ide_send_code:
+'cp949' codec can't encode character '\xc4' in position 19: illegal multibyte sequence
+Compiler directory set to:
+	C:\Program Files (x86)\Arduino\arduino_debug.exe
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+2019-01-20T10:51:03.637Z - info: [ServerMgr] Server stopped.
+2019-01-20T10:51:03.679Z - info: [ArdublocklySrv] Process exited with code null
+2019-02-04T04:56:01.714Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-02-04T04:56:01.715Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+2019-02-04T04:56:01.715Z - info: [ArdublocklyElec] OS detected: win32
+2019-02-04T04:56:01.784Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-02-04T04:56:02.580Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Current working directory set to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server root:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	COM12
+Default Serial Port set:
+	COM1
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino_debug.exe
+	Arduino Board Key: Uno
+	Arduino Board Value: arduino:avr:uno
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: upload
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Launch Server:
+
+2019-02-04T04:56:12.650Z - info: [ServerMgr] Server stopped.
+2019-02-04T04:56:28.445Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-02-04T04:56:28.450Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+2019-02-04T04:56:28.450Z - info: [ArdublocklyElec] OS detected: win32
+2019-02-04T04:56:28.519Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-02-04T04:56:28.979Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Current working directory set to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server root:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino_debug.exe
+	Arduino Board Key: Uno
+	Arduino Board Value: arduino:avr:uno
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: upload
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Launch Server:
+
+2019-02-04T04:56:34.593Z - info: [ServerMgr] Server stopped.
+2019-02-04T04:57:42.303Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-02-04T04:57:42.307Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+2019-02-04T04:57:42.307Z - info: [ArdublocklyElec] OS detected: win32
+2019-02-04T04:57:42.365Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-02-04T04:57:42.897Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Current working directory set to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server root:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino_debug.exe
+	Arduino Board Key: Uno
+	Arduino Board Value: arduino:avr:uno
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: upload
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Launch Server:
+
+2019-02-04T04:57:50.559Z - info: [ServerMgr] Server stopped.
+2019-02-04T04:57:52.152Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-02-04T04:57:52.153Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+2019-02-04T04:57:52.153Z - info: [ArdublocklyElec] OS detected: win32
+2019-02-04T04:57:52.235Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-02-04T04:57:52.702Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Current working directory set to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server root:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino_debug.exe
+	Arduino Board Key: Uno
+	Arduino Board Value: arduino:avr:uno
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: upload
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+Launch Server:
+
+2019-02-04T04:58:06.600Z - info: [ServerMgr] Server stopped.
+2019-02-04T05:00:18.133Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-02-04T05:00:18.134Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+2019-02-04T05:00:18.134Z - info: [ArdublocklyElec] OS detected: win32
+2019-02-04T05:00:18.203Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-02-04T05:00:18.879Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+Current working directory set to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+Selected server root:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58\ServerCompilerSettings.ini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino_debug.exe
+	Arduino Board Key: Uno
+	Arduino Board Value: arduino:avr:uno
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: upload
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+Launch Server:
+
+2019-02-04T05:00:22.757Z - info: [ServerMgr] Server stopped.
+2019-02-04T05:00:22.784Z - info: [ArdublocklySrv] Process exited with code null
+2019-02-04T05:00:35.892Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-02-04T05:00:35.894Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+2019-02-04T05:00:35.895Z - info: [ArdublocklyElec] OS detected: win32
+2019-02-04T05:00:35.952Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-02-04T05:00:36.470Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+Current working directory set to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+Selected server root:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58\ServerCompilerSettings.ini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino_debug.exe
+	Arduino Board Key: Uno
+	Arduino Board Value: arduino:avr:uno
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: upload
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly_Windows64_2019-02-04_13.58
+Launch Server:
+
+2019-02-04T05:00:41.257Z - info: [ServerMgr] Server stopped.
+2019-02-04T05:00:55.259Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-02-04T05:00:55.260Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\ardublockly_Windows64_2019-02-04_13.58
+2019-02-04T05:00:55.260Z - info: [ArdublocklyElec] OS detected: win32
+2019-02-04T05:00:55.316Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\ardublockly_Windows64_2019-02-04_13.58\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-02-04T05:00:55.813Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\ardublockly_Windows64_2019-02-04_13.58
+Current working directory set to:
+	C:\Users\duqrl\Desktop\ardublockly_Windows64_2019-02-04_13.58
+Selected server root:
+	C:\Users\duqrl\Desktop\ardublockly_Windows64_2019-02-04_13.58
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	C:\Users\duqrl\Desktop\ardublockly_Windows64_2019-02-04_13.58\ServerCompilerSettings.ini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino_debug.exe
+	Arduino Board Key: Uno
+	Arduino Board Value: arduino:avr:uno
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: upload
+Settings file saved to:
+	C:\Users\duqrl\Desktop\ardublockly_Windows64_2019-02-04_13.58\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\ardublockly_Windows64_2019-02-04_13.58
+Launch Server:
+
+2019-02-04T05:01:00.027Z - info: [ServerMgr] Server stopped.
+2019-02-04T05:01:00.058Z - info: [ArdublocklySrv] Process exited with code null
+2019-02-04T05:05:42.978Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2019-02-04T05:05:42.979Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\duqrl\Desktop\dorinity
+2019-02-04T05:05:42.979Z - info: [ArdublocklyElec] OS detected: win32
+2019-02-04T05:05:43.030Z - info: [ServerMgr] Command: C:\Users\duqrl\Desktop\dorinity\arduexec\server\start.exe --findprojectroot --nobrowser
+2019-02-04T05:05:43.548Z - info: [ArdublocklySrv] Running Python 3.7.1 (64 bit) on Windows-10-10.0.17134-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	C:\Users\duqrl\Desktop\dorinity
+Current working directory set to:
+	C:\Users\duqrl\Desktop\dorinity
+Selected server root:
+	C:\Users\duqrl\Desktop\dorinity
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	C:\Users\duqrl\Desktop\dorinity\ServerCompilerSettings.ini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino_debug.exe
+	Arduino Board Key: Uno
+	Arduino Board Value: arduino:avr:uno
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\duqrl\Desktop\dev\web\blockduino_new\ardublockly-master\ardublockly-master
+	Load IDE option: upload
+Settings file saved to:
+	C:\Users\duqrl\Desktop\dorinity\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	C:\Users\duqrl\Desktop\dorinity
+Launch Server:
+
+2019-02-04T05:10:33.726Z - info: [ServerMgr] Server stopped.
+2019-02-04T05:10:33.747Z - info: [ArdublocklySrv] Process exited with code null
